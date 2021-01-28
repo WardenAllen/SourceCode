@@ -1,0 +1,13 @@
+/.vs
+/Linenoise/obj
+/Linenoise/bin
+/Lua/bin
+/Lua/obj
+/Redis/obj
+/Redis/bin
+/Lua/liblua.a
+/Jemalloc/obj
+/Jemalloc/libjemalloc.a
+/Hiredis/obj
+/Hiredis/libhiredis.a
+/Redis/*.user
